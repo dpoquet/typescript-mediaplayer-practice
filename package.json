@@ -1,0 +1,18 @@
+{
+  "name": "typescript-website",
+  "version": "1.0.0",
+  "description": "A Typescript MediaPlayer library",
+  "main": "assets/main.ts",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.8.2"
+  },
+  "browserlist": [
+    "last 1 Chrome version"
+  ]
+}
